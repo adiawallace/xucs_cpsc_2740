@@ -2,4 +2,4 @@ README
 
 This is the repository for Software Development, CPSC 2740, in Spring 2014.
 
-This semester's project is a Degree Audit application.  Given a transcript and a curriculum, this application will decide a list of suggested courses for the upcoming semester.
+This semester's project is a Degree Audit application.  Given a transcript and a curriculum, this application will determine a list of suggested courses for the upcoming semester.
