@@ -19,7 +19,7 @@ public class DegreeAudit {
     }
 
     public static void tnguye91() {
-
+        System.out.println("Hello, World!");
     }
 
     public static void mtran14() {
